@@ -1,0 +1,1 @@
+Creating a list that brings up the name, order id, and purchase amount through d3. This data will be gathered through a csv file. 
